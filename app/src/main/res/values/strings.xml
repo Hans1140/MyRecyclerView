@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">MyRecyclerView</string>
+    <string name="figure_name">Nama Tokoh Perang Dunia 2</string>
+    <string name="description">Deskripsi</string>
+
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+
+    <string-array name="data_name">
+        <item>Adolf hitler</item>
+        <item>Benito Mussolini</item>
+        <item>Douglas MacArthur</item>
+        <item>George Smith Patton</item>
+        <item>Harry S. Truman</item>
+        <item>Hideki Tojo</item>
+        <item>Joseph Stalin</item>
+        <item>Hirohito</item>
+        <item>Mao Zedong</item>
+        <item>Sir Winston Churchill</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Adolf Hitler (20 April 1889 – 30 April 1945) adalah seorang politisi Jerman dan pemimpin Partai Nazi (Nationalsozialistische Deutsche Arbeiterpartei;NSDAP). Ia naik ke tampuk kekuasaan sebagai kanselir Jerman pada tahun 1933 dan kemudian sebagai Führer pada tahun 1934. [a] Selama kediktatorannya dari tahun 1933 hingga 1945, ia memulai Perang Dunia II di Eropa dengan menginvasi Polandia pada tanggal 1 September 1939. Ia terlibat erat dalam militer operasi selama perang dan merupakan pusat dari terjadinya Holocaust.</item>
+        <item>Benito Amilcare Andrea Mussolini (29 Juli 1883 – 28 April 1945) adalah seorang politikus dan jurnalis Italia yang mendirikan dan memimpin Partai Fasis Nasional . Dia adalah Perdana Menteri Italia dari kudeta Fasis pada tahun 1922 hingga deposisi pada tahun 1943, dan Duce ("Pemimpin") dari Fasisme Italia dari pendirian Fasci Italiani di Combattimento pada tahun 1919 hingga eksekusi pada tahun 1945 selama pemerintahan Italia Perang Saudara . Sebagai diktator Italia dan pendiri gerakan fasis, Mussolini menginspirasi penguasa totaliter lainnya seperti Adolf Hitler , Francisco Franco , dan António de Oliveira Salazar</item>
+        <item>Douglas MacArthur (26 Januari 1880 – 5 April 1964) adalah seorang jenderal bintang lima Amerika dan Marsekal Lapangan Angkatan Darat Filipina . Dia adalah Kepala Staf Angkatan Darat Amerika Serikat selama tahun 1930-an dan memainkan peran penting dalam teater Pasifik selama Perang Dunia II. Ia menerima Medal of Honor atas jasanya dalam kampanye Filipina , yang menjadikannya dan ayahnya Arthur MacArthur Jr. sebagai ayah dan anak pertama yang dianugerahi medali tersebut. Dia adalah satu dari hanya lima orang yang naik pangkat Jenderal Angkatan Darat di Angkatan Darat AS , dan satu-satunya yang menganugerahkan pangkat marshal lapangan di Angkatan Darat Filipina.</item>
+        <item>George Smith Patton Jr. (11 November 1885 – 21 Desember 1945) adalah seorang jenderal Angkatan Darat Amerika Serikat pada Perang Dunia II. Dalam 36 tahun kariernya di angkatan darat, Ia menjadi Kadet Ajudan di West Point, menjadi juara lima Modern Pentathlon pada Olimpiade 1912 di Swedia, lulus Sekolah Kavaleri di Prancis pada 1912 dan 1913, dijadwalkan untuk ikut dalam Olimpiade 1916 yang seharusnya diadakan di Berlin, menjadi pendukung peperangan lapis baja, dan mengkomandani pasukan di Afrika Utara, Sisilia, dan Eropa.</item>
+        <item>Harry S. Truman (8 Mei 1884 – 26 Desember 1972) adalah presiden Amerika Serikat ke-33 dari tahun 1945 hingga 1953, menggantikan Franklin D. Roosevelt setelah wafat setelah menjabat sebagai wakil presiden ke-34. Dia menerapkan Rencana Marshall untuk membangun kembali ekonomi Eropa Barat , dan mendirikan Doktrin Truman dan NATO .</item>
+        <item>Hideki Tojo (30 Desember 1884–23 Desember 1948) adalah jenderal Kekaisaran Tentara Jepang dan PM ke–40 Jepang (18 Oktober 1941–22 Juli 1944). Tojo ialah anggota klik tentara yang mendorong Jepang dalam perang di akhir 1930-an. Sebagai Menteri Perang pada 1940 ialah penolong dalam kepemimpinan Jepang dalam Blok Poros dengan Jerman Nazi dan Italia. Di antara keputusannya ialah izin persetujuan pemerintah dalam percobaan biologis terhadap para tawanan perang.</item>
+        <item>Joseph Stalin (terlahir dengan nama Ioseb Besarionis dze Jughashvili;[b] lahir 18 Desember 1878 – meninggal 5 Maret 1953 pada umur 74 tahun) adalah tokoh revolusi dan politikus Uni Soviet keturunan Georgia. Ia menjadi kepala negara Uni Soviet sejak pertengahan era 1920-an sampai akhir hayatnya pada tahun 1953, dengan gelar Sekretaris Jenderal Partai Komunis Uni Soviet sejak tahun 1922 sampai 1952, dan Kepala Pemerintahan Uni Soviet sejak tahun 1941 sampai 1953</item>
+        <item>Hirohito, dikenal di Jepang dengan nama anumerta Kaisar Showa (29 April 1901 – 7 Januari 1989) adalah Kaisar Jepang yang ke–124. Hirohito adalah kaisar dengan masa kekuasaan terlama sepanjang sejarah Jepang, yakni berkuasa pada tahun (1926–1989). Hirohito juga merupakan salah satu tokoh penting pada masa Perang Dunia II dan pembangunan kembali Jepang.</item>
+        <item>Mao Zedong (26 Desember 1893 – 9 September 1976), juga dikenal sebagai Ketua Mao , adalah seorang revolusioner komunis Tiongkok yang merupakan bapak pendiri Republik Rakyat Tiongkok (RRT), yang ia pimpin sebagai ketua Partai Komunis Tiongkok dari pendiriannya pada tahun 1949 sampai kematiannya pada tahun 1976. Secara ideologis seorang Marxis-Leninis , teori, strategi militer, dan kebijakan politiknya secara kolektif dikenal sebagai Maoisme .</item>
+        <item>Sir Winston Leonard Spencer Churchill (30 November 1874 – 24 Januari 1965) adalah seorang negarawan Inggris, perwira militer, dan penulis. Dia adalah Perdana Menteri Inggris dari tahun 1940 hingga 1945, ketika dia memimpin negara itu meraih kemenangan dalam Perang Dunia Kedua , dan lagi dari tahun 1951 hingga 1955. Selain dua tahun antara 1922 dan 1924, Churchill adalah Anggota Parlemen (MP ) dari tahun 1900 hingga 1964 dan mewakili total lima daerah pemilihan . Secara ideologis seorang liberal ekonomi dan imperialis , dia untuk sebagian besar karirnya menjadi anggota Partai Konservatif , sebagai pemimpin dari 1940 sampai 1955. Dia adalah anggota Partai Liberal dari 1904 sampai 1924.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://upload.wikimedia.org/wikipedia/commons/b/bb/Hitler_portrait_crop_%28colorized%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/4/4a/Benito_Mussolini_%28primo_piano%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/9/92/MacArthur_Manila.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/c/c7/GeorgeSPatton.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/e/e6/HarryTruman.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/d/d7/HidekiTojoColor.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/4/43/Stalin_Full_Image.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/3/32/Hirohito_wartime%28cropped%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/5/55/Mao_Zedong_1959_%28cropped%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/b/bc/Sir_Winston_Churchill_-_19086236948.jpg</item>
+    </string-array>
+
+</resources>
